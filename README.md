@@ -1,0 +1,2 @@
+# animeflik
+NPM INSTALL
